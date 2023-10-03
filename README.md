@@ -25,4 +25,5 @@ https://github.com/monika-barkesya/SubSpace
 ```
 ## Access the tool via the following endpoints:
 Blog Analytics: ```http://localhost:3000/api/blog-stats```.
+
 Blog Search: ```http://localhost:3000/api/blog-search?query=your-search-term```.
