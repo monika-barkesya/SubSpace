@@ -24,5 +24,5 @@ https://github.com/monika-barkesya/SubSpace
  node index.js
 ```
 ## Access the tool via the following endpoints:
-Blog Analytics: ```http://localhost:3000/api/blog-stats```
-Blog Search: ```http://localhost:3000/api/blog-search?query=your-search-term```
+Blog Analytics: ```http://localhost:3000/api/blog-stats```.
+Blog Search: ```http://localhost:3000/api/blog-search?query=your-search-term```.
