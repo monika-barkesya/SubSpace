@@ -10,8 +10,7 @@ Data Analysis: Utilizes Lodash for analytics:
 2. Identifies the longest blog title.
 3. Counts blogs with "privacy" in the title.
 4. Generates an array of unique blog titles.
- Provides clients with a JSON object.
-
+   
 Blog Search Endpoint: Offers a search at /api/blog-search for filtering blogs by query
 Download the zip folder from github- and open it in any python IDE
 
